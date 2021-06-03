@@ -1,5 +1,5 @@
 # add alias here
-alias ll = 'ls -lrt'
+alias ll='ls -lrt'
 
 # If not running interactively, don't do anything
 case $- in
