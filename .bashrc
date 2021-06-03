@@ -1,5 +1,6 @@
 # add alias here
 alias ll='ls -lrt'
+alias myls='ls -lrt'
 
 # If not running interactively, don't do anything
 case $- in
