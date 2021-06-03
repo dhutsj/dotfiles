@@ -1,6 +1,3 @@
-
-alias ll='ls -lrt'
-alias myls='ls -lrt'
 echo WORKING DIR
 pwd
 
